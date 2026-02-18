@@ -1,16 +1,40 @@
-## Hi there 👋
+ # Hi there, I'm Varshini M V 👋  
 
-<!--
-**varshinimv/varshinimv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring full Stack Web Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me  
+I am a BCA student learning  full stack web development and building beginner-friendly projects using HTML, CSS, and JavaScript.  
+I enjoy improving my coding skills step by step and creating simple, clean web applications.
+
+---
+
+## 🛠 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects  
+- ⏰ **Digital Clock**  
+  A real-time digital clock built using JavaScript.
+
+---
+
+## 🎯 Currently Learning  
+- JavaScript (basics & logic building)  
+- Responsive web design  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: varshinimv344@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/varshini-m-v-912b99386/
+ 
+
+---
+
+⚡ *“Learning every day, one step at a time.”*
+ 
+
