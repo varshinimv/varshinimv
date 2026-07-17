@@ -1,6 +1,6 @@
  # Hi there, I'm Varshini M V 👋  
 
-🎓 BCA Student | Aspiring full Stack Web Developer  
+🎓 BCA Student 
 
 ---
 
