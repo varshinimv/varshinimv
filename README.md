@@ -1,18 +1,18 @@
  # Hi there, I'm Varshini M V 👋  
 
-🎓 BCA Student 
+Aspiring Data analytics 
 
 ---
 
 ## 🌱 About Me  
-I am a BCA student learning  full stack web development and building beginner-friendly projects using HTML, CSS, and JavaScript.  
+I am a BCA student learning  Data analytics and web development and building beginner-friendly projects using HTML, CSS, and JavaScript, power BI,SQL, python.  
 I enjoy improving my coding skills step by step and creating simple, clean web applications.
 
 ---
 
 ## 🛠 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code  
+- **Frontend:** HTML, CSS, JavaScript , python 
+- **Tools:** Git, GitHub, VS Code , power BI
 
 ---
 
@@ -23,7 +23,7 @@ I enjoy improving my coding skills step by step and creating simple, clean web a
 ---
 
 ## 🎯 Currently Learning  
-- JavaScript (basics & logic building)  
+- JavaScript and python (basics & logic building)  
 - Responsive web design  
 
 ---
