@@ -12,7 +12,7 @@ I enjoy improving my coding skills step by step and creating simple, clean web a
 
 ## 🛠 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript , python 
-- **Tools:** Git, GitHub, VS Code , power BI
+- **Tools:** Git, GitHub, VS Code 
 
 ---
 
