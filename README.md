@@ -5,7 +5,7 @@ Aspiring Data analytics
 ---
 
 ## 🌱 About Me  
-I am a BCA student learning  Data analytics and web development and building beginner-friendly projects using HTML, CSS, and JavaScript, power BI,SQL, python.  
+I am a BCA student learning  web development and building beginner-friendly projects using HTML, CSS, and JavaScript, python.  
 I enjoy improving my coding skills step by step and creating simple, clean web applications.
 
 ---
