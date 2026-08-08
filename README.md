@@ -9,8 +9,8 @@ BCA Student and aspiring Data Analyst with a strong interest in data analytics, 
 ---
 
 ## 📌 Projects  
-- ⏰ **Digital Clock** : A real-time digital clock built using JavaScript.
--    **Swiggy Dashboard**: An interactive sales dashboard created using Microsoft Excel.
+- **Digital Clock** : A real-time digital clock built using JavaScript.
+- **Swiggy Dashboard** : An interactive sales dashboard created using Microsoft Excel.
    
 ---
 
