@@ -5,27 +5,23 @@ Aspiring Data analytics
 ---
 
 ## 🌱 About Me  
-I am a BCA student learning  web development and building beginner-friendly projects using HTML, CSS, and JavaScript, python.  
-I enjoy improving my coding skills step by step and creating simple, clean web applications.
-
----
-
-## 🛠 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript , python 
-- **Tools:** Git, GitHub, VS Code 
-
+BCA Student and aspiring Data Analyst with a strong interest in data analytics, business intelligence, data visualization, and developing practical, real-world projects.
 ---
 
 ## 📌 Projects  
 - ⏰ **Digital Clock**  
   A real-time digital clock built using JavaScript.
-
+- **Swiggy Dashboard**
+  An interactive sales dashboard created using Microsoft Excel.
+   
 ---
 
 ## 🎯 Currently Learning  
-- JavaScript and python (basics & logic building)  
-- Responsive web design  
-
+- Microsoft Excel
+- SQL
+- Power BI
+- python 
+ 
 ---
 
 ## 📫 Connect With Me  
