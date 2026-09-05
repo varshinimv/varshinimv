@@ -1,17 +1,17 @@
  # Hi there, I'm Varshini M V 👋  
 
-Aspiring Data analytics 
+Aspiring AI Data analytics 
 
 ---
 
 ## 🌱 About Me  
-BCA Student and aspiring Data Analyst with a strong interest in data analytics, business intelligence, data visualization, and developing practical, real-world projects.
+BCA Student and aspiring AI Data Analyst with a strong interest in data analytics, business intelligence, data visualization, and developing practical, real-world projects.
 ---
 
 ## 📌 Projects  
 - **Digital Clock** : A real-time digital clock built using JavaScript.
 - **Swiggy Dashboard** : An interactive sales dashboard created using Microsoft Excel.
-   
+- **Retail Sales Dashboard** : An interactive sales dashboard created using Microsoft Excel.   
 ---
 
 ## 🎯 Currently Learning  
