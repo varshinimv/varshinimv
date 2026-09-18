@@ -1,11 +1,9 @@
  # Hi there, I'm Varshini M V 👋  
 
-Aspiring AI Data analytics 
-
 ---
 
 ## 🌱 About Me  
-BCA Student and aspiring AI Data Analyst with a strong interest in data analytics, business intelligence, data visualization, and developing practical, real-world projects.
+BCA Student and  business intelligence and developing practical, real-world projects.
 ---
 
 ## 📌 Projects  
@@ -18,7 +16,9 @@ BCA Student and aspiring AI Data Analyst with a strong interest in data analytic
 - Microsoft Excel
 - SQL
 - Power BI
-- python 
+- python
+- HTML
+- CSS 
  
 ---
 
